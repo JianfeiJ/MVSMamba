@@ -57,11 +57,10 @@ For quantitative evaluation, you can upload your point clouds to [Tanks and Temp
 ## Citation
 If you find this work useful in your research, please consider citing the following:
 ```bibtex
-@article{jiang2025mvsmamba,
+@inproceedings{mvsmamba,
   title={MVSMamba: Multi-View Stereo with State Space Model},
   author={Jiang, Jianfei and Liu, Qiankun and Liu, Hongyuan and Yu, Haochen and Wang, Liyong and Chen, Jiansheng and Ma, Huimin},
-  journal={arXiv preprint arXiv:2511.01315},
-  year={2025}
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
 }
 ```
 
